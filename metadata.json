@@ -1,0 +1,6 @@
+{
+  "name": "BookSphere",
+  "description": "Every Book Has a Story. Every Reader Has a World. An online e-book marketplace connecting independent authors directly with readers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
