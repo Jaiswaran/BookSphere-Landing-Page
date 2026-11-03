@@ -333,7 +333,7 @@ export function sanitizePriceInput(raw: string): string {
 }
 
 export const ANDROID_APK_DRIVE_URL =
-  'https://drive.google.com/file/d/1tmb5lO5ssLFgnISf9piO5eo36IBHs2Ov/view?usp=sharing';
+  'https://drive.google.com/uc?export=download&id=1tmb5lO5ssLFgnISf9piO5eo36IBHs2Ov';
 
 export function getAndroidApkDownloadUrl(): string {
   return ANDROID_APK_DRIVE_URL;
